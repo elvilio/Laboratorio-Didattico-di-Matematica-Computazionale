@@ -1,1 +1,0 @@
-clear;A=my_hilb(10);u=ones(10,1);b=A*u;w=A\b;normastrana=norm(w-u,2);[Q,R]=qr(A);z = R\(Q'*b);normastrana2=norm(z-u,2);normastrananormastrana2

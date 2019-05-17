@@ -1,0 +1,1 @@
+hold on;axis equal;tanti = 100;var_v = exp(linspace(0,2*pi,tanti)*1i);plot(var_v, "r+");var_v2 = log(var_v);plot(var_v2, "g*");% verifica grafica for s=2:10	circle_complex(0, s, tanti);	var_v3 = log(exp(linspace(0,2*pi,tanti)*1i)*s);	plot(var_v3, "bo");end%%clear("s", "tanti", "var_v", "var_v2", "var_v3");
