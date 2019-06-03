@@ -14,4 +14,4 @@ Materiale delle lezioni di Laboratorio di Matematica Computazionale, anno 2019.
 | `Lezione 7` | Interpolazione e fit di dati |
 | `Lezione 8` | Calcolo numerico di integrali |
 | `Lezione 9` | Problemi differenziali di Cauchy |
-| `Lezione 10` | *Non presente* |
+| `Lezione 10` | Problemi di massimo e minimo |
